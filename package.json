@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "express-generator": "^4.16.1",
+    "minimist": "^1.2.5",
     "mysql": "^2.18.1"
   }
 }
